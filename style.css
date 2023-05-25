@@ -8,5 +8,18 @@ body
     margin-left: auto;
     margin-right: auto;
     margin-top: 150px;
-    width: 50%;
+}
+#hiname
+{
+    font-size: larger;
+    display: block;
+    margin-left: 700px;
+    margin-right: auto;
+    width: 800px;
+    color: rgb(233, 124, 0);
+    font-size: 40px;
+}
+#names
+{
+    font-weight: bolder;
 }
