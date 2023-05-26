@@ -5,7 +5,7 @@ body
 #imgkod
 {
     display: block;
-    margin-left: auto;
+    margin-left: 810px;
     margin-right: auto;
     margin-top: 150px;
 }
@@ -13,7 +13,7 @@ body
 {
     font-size: larger;
     display: block;
-    margin-left: 700px;
+    margin-left: 750px;
     margin-right: auto;
     width: 800px;
     color: rgb(233, 124, 0);
