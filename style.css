@@ -23,10 +23,27 @@ body
 {
     font-weight: bolder;
 }
-#time
+#Time
 {
-    display: block;
+    text-align: center;
+    color: rgb(233, 124, 0);
+    font-size: 40px;
+    
+}
+#text
+{
+    text-align: center;
+    color: rgb(233, 124, 0);
+    font-size: 40px;
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 150px;
+    position: relative;
+    top: -45px;
+}
+#zaman2
+{
+    position: relative;
+    top: -45px;
+    right: -230px;
 }
