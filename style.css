@@ -23,3 +23,10 @@ body
 {
     font-weight: bolder;
 }
+#time
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
